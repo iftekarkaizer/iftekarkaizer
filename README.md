@@ -25,7 +25,7 @@
 <h2 align="center">🖥IT INFRASTRUCTURE & ClOUD PROJECTS</h2>  
 <p align="center">
   <a href="https://github.com/iftekarkaizer/Assetmgt-Bandwidthmgt-NSM-Servers.git">
-    Asset Management, Bandwidth Management, Device Alert System, Netowrk Latency Monitorization. 
+    Asset Management (Snipe IT), Bandwidth Management (Zabbix), Device Alert System (Nagios), Netowrk Latency Monitorization (Smokeping). 
   </a>
 </p>
 
