@@ -16,7 +16,7 @@
 </p>
 
 
-<h2 align="center">IT INFRASTRUCTURE PROJECTS</h2>  
+<h2 align="center">IT INFRASTRUCTURE & ClOUD PROJECTS</h2>  
 <p align="center">
   <a href="https://github.com/your-it-infra-project.git">
     AWS Multi-Region Architecture
