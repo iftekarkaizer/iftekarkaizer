@@ -39,7 +39,7 @@
 <h2 align="center">💡IoT Projects💡</h2>  
 <p align="center">
   <a href="https://github.com/iftekarkaizer/CI-CD-Monitoring-App.git">
-    Implementation of Call Driven Alert System with Gsm Module with Integration of Temprature Sensor in Server Room
+    Implementation of Call Driven Alert System with Gsm Module and Integration of Temprature Sensor in Server Room
   </a>
 </p>
 
