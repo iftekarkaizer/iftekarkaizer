@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Iftekar, An </h1>
 <h3 align="center">IT and Cloud Infrastructure professional and Cybersecurity enthusiast</h3>
+
 <h2 align="center">
-   Cyber Security Projects 
+  
+  <a href="https://github.com/iftekarkaizer/Penetration-Testing-Forensic-Analysis.git">Cyber Security Projects</a>
 </h2>
- <p align="center">
-  <a href="https://github.com/iftekarkaizer/Penetration-Testing-Forensic-Analysis.git">
-    
-  </a>
-</p>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekarkaizer&label=Profile%20views&color=0e75b6&style=flat" alt="iftekarkaizer" /> </p>
 
