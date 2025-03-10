@@ -44,8 +44,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iftekarkaizer/Grafana-Prometheus-loki.git">
-    Integration of ESP32 cam with Nodemcu in a Web Server. 
+  <a href="https://github.com/iftekarkaizer/MotionBuzzerSensor_AmplifiedSound.git">
+    Integration of Motion, Buzzers with Gsm Module.
   </a>
 </p>
 
