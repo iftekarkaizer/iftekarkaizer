@@ -24,12 +24,16 @@
 
 <h2 align="center">🖥IT INFRASTRUCTURE & ClOUD PROJECTS</h2>  
 <p align="center">
+  <a href="https://github.com/iftekarkaizer/Assetmgt-Bandwidthmgt-NSM-Servers.git">
+    Asset Management, Bandwidth Management, Device Alert System, Netowrk Latency Monitorization. 
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/your-it-infra-project.git">
     AWS Multi-Region Architecture
   </a>
 </p>
-
-
 
 
 
