@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Iftekar, An IT and Cloud Infrastructure professional and Cybersecurity enthusiast </h1>
 
 
-<h2 align="center">CYBER SECURITY PROJECTS</h2>  
+<h2 align="center">🔐CYBER SECURITY PROJECTS</h2>  
 <p align="center">
   <a href="https://github.com/iftekarkaizer/Penetration-Testing-Forensic-Analysis.git">
     Penetration Testing and Forensic Analysis Project
   </a>
 </p>
 
-<h2 align="center">DEVOPS PROJECTS</h2>  
+<h2 align="center">💻DEVOPS PROJECTS</h2>  
 <p align="center">
   <a href="https://github.com/iftekarkaizer/CI-CD-Monitoring-App.git">
     CI/CD Pipeline with Python Monitoring App
@@ -22,7 +22,7 @@
 </p>
 
 
-<h2 align="center">IT INFRASTRUCTURE & ClOUD PROJECTS</h2>  
+<h2 align="center">🖥IT INFRASTRUCTURE & ClOUD PROJECTS</h2>  
 <p align="center">
   <a href="https://github.com/your-it-infra-project.git">
     AWS Multi-Region Architecture
