@@ -41,7 +41,7 @@
 
 - 🌱 I’m currently learning **Python, Go, Fiber, React.**
 
-- 👯 I’m looking to collaborate on **IT Infrastructure, Cybersecurity, Penetration's testing, Forensic Analysis, Devops**
+- 👯 I’m looking to collaborate on **IT Infrastructure, Cybersecurity, Penetration's testing, Forensic Analysis, Devops & IoT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iftekarkaizer](https://github.com/iftekarkaizer)
 
