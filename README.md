@@ -49,6 +49,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/iftekarkaizer/Esp32withWebserver.git">
+    Implention of FaceDetection and Integration of Aws Iot Core (On-Going)
+  </a>
+</p>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekarkaizer&label=Profile%20views&color=0e75b6&style=flat" alt="iftekarkaizer" /> </p>
