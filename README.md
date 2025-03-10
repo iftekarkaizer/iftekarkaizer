@@ -36,6 +36,20 @@
 </p>
 
 
+<h2 align="center">💡IoT Projects💡</h2>  
+<p align="center">
+  <a href="https://github.com/iftekarkaizer/CI-CD-Monitoring-App.git">
+    Implementation of Call Driven Alert System with Gsm Module with Integration of Temprature Sensor in Server Room
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iftekarkaizer/Grafana-Prometheus-loki.git">
+    Integration of ESP32 cam with Nodemcu in a Web Server. 
+  </a>
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekarkaizer&label=Profile%20views&color=0e75b6&style=flat" alt="iftekarkaizer" /> </p>
 
