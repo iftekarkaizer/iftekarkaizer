@@ -10,7 +10,7 @@
 
 <h2 align="center">DEVOPS PROJECTS</h2>  
 <p align="center">
-  <a href="[https://github.com/your-devops-project-link.git](https://github.com/iftekarkaizer/CI-CD-Monitoring-App.git)">
+  <a href="https://github.com/iftekarkaizer/CI-CD-Monitoring-App.git">
     CI/CD Pipeline with Python Monitoring App
   </a>
 </p>
