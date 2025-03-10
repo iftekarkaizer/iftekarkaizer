@@ -10,15 +10,11 @@
 
 <h2 align="center">DEVOPS PROJECTS</h2>  
 <p align="center">
-  <a href="https://github.com/your-devops-project-link.git">
-    CI/CD Pipeline Automation
+  <a href="[https://github.com/your-devops-project-link.git](https://github.com/iftekarkaizer/CI-CD-Monitoring-App.git)">
+    CI/CD Pipeline with Python Monitoring App
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/your-second-devops-project.git">
-    Kubernetes Deployment with Helm
-  </a>
-</p>
+
 
 <h2 align="center">IT INFRASTRUCTURE PROJECTS</h2>  
 <p align="center">
@@ -26,11 +22,7 @@
     AWS Multi-Region Architecture
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/your-second-it-infra-project.git">
-    Linux Server Hardening
-  </a>
-</p>
+
 
 
 
