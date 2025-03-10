@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iftekar, An Iftekar | IT & Cloud Infrastructure Professional | Cybersecurity & IoT Enthusiast </h1>
+<h1 align="center">Hi 👋, I'm Iftekar, IT & Cloud Infrastructure Professional | Cybersecurity & IoT Enthusiast </h1>
 
 
 <h2 align="center">🔐CYBER SECURITY PROJECTS</h2>  
