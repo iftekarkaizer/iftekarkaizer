@@ -29,7 +29,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekarkaizer&label=Profile%20views&color=0e75b6&style=flat" alt="iftekarkaizer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftekarkaizer" alt="iftekarkaizer" /></a> </p>
+
 
 - 🔭 I’m currently working on [Senior AWS Infrastructure Engineer - Cloud Architecture & DevOps](https://www.upwork.com/freelancers/~0107a3ef1b47397c50?mp_source=share)
 
