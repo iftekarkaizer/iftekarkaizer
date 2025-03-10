@@ -15,6 +15,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/iftekarkaizer/Grafana-Prometheus-loki.git">
+    Grafana, Prometheus and Loki integration for Cloud services.
+  </a>
+</p>
+
 
 <h2 align="center">IT INFRASTRUCTURE & ClOUD PROJECTS</h2>  
 <p align="center">
