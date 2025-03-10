@@ -4,7 +4,7 @@
 <h2 align="center">CYBER SECURITY PROJECTS</h2>  
 <p align="center">
   <a href="https://github.com/iftekarkaizer/Penetration-Testing-Forensic-Analysis.git">
-    Penetrating and Forensic Analysis Project
+    Penetration Testing and Forensic Analysis Project
   </a>
 </p>
 
