@@ -76,7 +76,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iftekar-bin-kaiser-cisa-4214162b6/](https://www.linkedin.com/in/iftekar-bin-kaiser-cisa-4214162b6/)
 
-- ⚡ Fun fact **If you say something to solve, it will buzz till it gets solved.**
+- ⚡ Fun fact **If you say something to solve, it will buzz me till it gets solved.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
