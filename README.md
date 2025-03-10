@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iftekar, An IT and Cloud Infrastructure professional and Cybersecurity enthusiast </h1>
-<h3 align="center">IT and Cloud Infrastructure professional and Cybersecurity enthusiast</h3>
+
 
 <h2 align="center">CYBER SECURITY PROJECTS</h2>  
 <p align="center">
