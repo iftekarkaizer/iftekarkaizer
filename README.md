@@ -1,17 +1,34 @@
 <h1 align="center">Hi 👋, I'm Iftekar, An </h1>
 <h3 align="center">IT and Cloud Infrastructure professional and Cybersecurity enthusiast</h3>
 
-<h2 align="">  Cyber Secuirty Projects  </h2>  
-<p align="">
+<h2 align="center">CYBER SECURITY PROJECTS</h2>  
+<p align="center">
   <a href="https://github.com/iftekarkaizer/Penetration-Testing-Forensic-Analysis.git">
     Penetrating and Forensic Analysis Project
   </a>
 </p>
 
-<h4 align="center">  Devops Projects  </h2>  
+<h2 align="center">DEVOPS PROJECTS</h2>  
 <p align="center">
-  <a href="[https://github.com/iftekarkaizer/Penetration-Testing-Forensic-Analysis.git](https://github.com/iftekarkaizer/CI-CD-Monitoring-App.git)">
-    CI/CD pipeline with Monitoring App
+  <a href="https://github.com/your-devops-project-link.git">
+    CI/CD Pipeline Automation
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/your-second-devops-project.git">
+    Kubernetes Deployment with Helm
+  </a>
+</p>
+
+<h2 align="center">IT INFRASTRUCTURE PROJECTS</h2>  
+<p align="center">
+  <a href="https://github.com/your-it-infra-project.git">
+    AWS Multi-Region Architecture
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/your-second-it-infra-project.git">
+    Linux Server Hardening
   </a>
 </p>
 
