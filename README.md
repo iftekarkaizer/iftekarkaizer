@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Iftekar, An </h1>
 <h3 align="center">IT and Cloud Infrastructure professional and Cybersecurity enthusiast</h3>
 
-<h2 align="center">
-  <a href="https://github.com/iftekarkaizer/Penetration-Testing-Forensic-Analysis.git">
-    Cyber Security Projects
-  </a>
-</h2>
-
+<h2 align="center">CYBER SECURITY PROJECTS</h2>  
 <p align="center">
   <a href="https://github.com/iftekarkaizer/Penetration-Testing-Forensic-Analysis.git">
-    Penetrating and Forensic Analysis
+    Penetrating and Forensic Analysis Project
   </a>
 </p>
 
